@@ -1,0 +1,9 @@
+.image-container {
+    height: 80%; /* Sesuaikan dengan tinggi yang Anda inginkan */
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+}
